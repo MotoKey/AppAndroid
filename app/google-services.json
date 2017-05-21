@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "653473345585",
+    "firebase_url": "https://motokey-fc935.firebaseio.com",
+    "project_id": "motokey-fc935",
+    "storage_bucket": "motokey-fc935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653473345585:android:b8048384288621c4",
+        "android_client_info": {
+          "package_name": "com.example.arturribeiro.ford_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653473345585-rdjar71v30cf233kgrs5l262904p8hs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhldG4wjnfoPfNJKv4iwh5y5OGr9Hoxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
